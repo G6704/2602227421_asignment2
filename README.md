@@ -28,7 +28,7 @@ This project implements all required features, and hopefully, it meets the assig
 - JavaScript (with local storage for ratings)
 
 ## Live Demo
-*(Provide a GitHub Pages or hosting link if applicable)*
+https://g6704.github.io/2602227421_asignment2/
 
 ---
 
